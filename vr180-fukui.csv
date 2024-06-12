@@ -1,7 +1,7 @@
-title,place,geo3x3,description,date
-たんぼでIchigoJamプログラミング,鯖江市立片上小学校,E91387334839,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://img.fukuno.com/vr180/20240611_arare/out.m3u8,2024-06-11
-おかえりごはん之介,La Tempo,E91387322932865,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://img.fukuno.com/vr180/20240610_nosuke/out.m3u8,2024-06-10
-ヨリバでSUP,ヨリバ前足羽川,E913873647577,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://img.fukuno.com/vr180/20240609_asuwagawa/img.m3u8,2024-06-09
-サイバーフライデー,ヨリバ,E91387364781318,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://tf0.code4fukui.org/vr180/2024-05-24-cyberfriday/cyberfriday.m3u8,2024-05-24
-Hana道場から見えた虹,Hana道場,E91387322933533,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://tf0.code4fukui.org/vr180/2024-05-17-sabae/sabae.m3u8,2024-05-17
-CyberSakura参加者jig見学,jig.jp,E9138732358822,https://code4fukui.github.io/fisheyes-viewer/?url=photo/226A0043.JPG,2024-03-23
+title,place,geo3x3,description,date,url
+たんぼでIchigoJamプログラミング,鯖江市立片上小学校,E91387334839,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://img.fukuno.com/vr180/20240611_arare/out.m3u8,2024-06-11,https://yrm.shizentai.jp/2024.06.12/
+おかえりごはん之介,La Tempo,E91387322932865,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://img.fukuno.com/vr180/20240610_nosuke/out.m3u8,2024-06-10,https://www.instagram.com/nosuke_19__/
+ヨリバでSUP,ヨリバ前足羽川,E913873647577,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://img.fukuno.com/vr180/20240609_asuwagawa/img.m3u8,2024-06-09,https://yoriver.jp/
+サイバーフライデー,ヨリバ,E91387364781318,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://tf0.code4fukui.org/vr180/2024-05-24-cyberfriday/cyberfriday.m3u8,2024-05-24,https://cybervalley.jp/cyberfriday.html
+Hana道場から見えた虹,Hana道場,E91387322933533,https://code4fukui.github.io/fisheyes-viewer/slideshow.html?url=https://tf0.code4fukui.org/vr180/2024-05-17-sabae/sabae.m3u8,2024-05-17,https://hanadojo.com/
+CyberSakura参加者jig見学,jig.jp,E9138732358822,https://code4fukui.github.io/fisheyes-viewer/?url=photo/226A0043.JPG,2024-03-23,https://cybersakura.jp/
